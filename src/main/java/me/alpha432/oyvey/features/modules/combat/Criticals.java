@@ -11,7 +11,7 @@ import net.minecraft.network.protocol.game.ServerboundMovePlayerPacket;
 
 public class Criticals extends Module {
     public Criticals() {
-        super("Criticals", "Makes you do critical hits", Category.COMBAT);
+        super("Triggeris", "Makes you do critical hits", Category.COMBAT);
     }
 
     @Subscribe
